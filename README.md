@@ -1,4 +1,4 @@
-# Daylight_hours
+# daylight_hours
 
 A python script that creates a plot of the daylight hours at your current location and saves it in the script directory. 
 
