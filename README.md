@@ -4,4 +4,4 @@ A python script that creates a plot of the daylight hours at your current locati
 
 The location is pulled through the geocoder module, and the daylight hours through this API: https://sunrise-sunset.org/api
 
-- [] Merge the extra features with the main script asap
+- [ ] Merge the extra features with the main script asap
